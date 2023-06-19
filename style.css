@@ -219,3 +219,377 @@ margin-left:2rem;
 cursor:pointer;
 
 }
+
+
+/*Details Part*/
+
+.DetailMore {
+    font-size: 50px;
+    font-weight: 500;
+    color: #00DD8A;
+    margin-left: 7.5rem;
+}
+
+.EmbraceText {
+    width: 546px;
+    height: 136px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 68px;
+    text-align: center;
+    color: #101010;
+    margin-left: 7.5rem;
+    margin-top: 24px;
+}
+
+.LoanDescription {
+    width: 649px;
+    height: 78px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #777C83;
+    margin-left: 7.5rem;
+    margin-top: 22px;
+}
+
+.Advantages {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 42px;
+    margin-left: 7.5rem;
+    margin-right: 7.5rem;
+}
+
+.Advantagedetails {
+    Width: 356px;
+    Height: 239px;
+}
+
+.modelImg {
+    width: 40px;
+    height: 40px;
+
+}
+
+.Image_feature {
+    margin-top: 42px;
+    margin-left: 24px;
+    margin-bottom: 22px;
+}
+
+.AdvantageTitle {
+    height: 36px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+
+    color: #181539;
+    margin-left: 24px;
+    margin-bottom: 5px;
+}
+
+.AdvantageDescription {
+    height: 52px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #777C83;
+    margin-left: 24px;
+    margin-bottom: 42px;
+}
+
+.DotDetails {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 24px;
+}
+
+.dotLineLearn {
+    font-size: 40px;
+    font-weight: 500;
+    letter-spacing: 3px;
+    color: #3964FF;
+}
+
+.platformDescription {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.SmartTitle {
+    height: 68px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 68px;
+    text-align: center;
+    color: #101010;
+}
+
+/*Benefit part*/
+.studentBenefits {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 56px;
+    margin-left: 216px;
+    margin-right: 216px;
+}
+
+.benefitDetails {
+    Width: 487px;
+    Height: 283px;
+    background: #FFFFFF;
+    border: 1px solid #E7E7E7;
+    box-sizing: border-box;
+
+}
+
+.Image_benefit {
+    display: flex;
+    justify-content: center;
+    margin-top: 48px;
+
+}
+
+.beneImg {
+    width: 40px;
+    height: 40px;
+}
+
+.benefitTitle {
+    height: 36px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    margin-top: 30.67px;
+    color: #181539;
+}
+
+.BenefitDescription {
+    height: 78px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    Width: 396px;
+    text-align: center;
+    color: #777C83;
+    margin-left: 46px;
+    margin-top: 9px;
+}
+
+.studentBenefit {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 34px;
+    margin-left: 216px;
+    margin-right: 216px;
+}
+
+/*Next slant*/
+.skyBlue_Container {
+    Height: 400px;
+    width: 100%;
+    margin-top: 137px;
+    background: #F2F9FF;
+    position: relative;
+    margin-bottom: 350px;
+
+}
+
+.slantpoint {
+    Height: 580px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: skewY(-3deg);
+    transform-origin: top right;
+    background: #F2F9FF;
+    z-index: -1;
+
+}
+
+.Joindetails {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.Join {
+    height: 66px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 66px;
+    text-align: center;
+    color: #101010;
+    margin-top: 100px;
+}
+
+.NumberOrder {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 298px;
+    margin-right: 299px;
+    margin-top: 72px;
+}
+
+.NumberImg {
+    Width: 72px;
+    Height: 72px;
+}
+
+
+.arrowImg {
+    width: 160px;
+    height: 28px;
+}
+
+.Arrows {
+    margin-top: 20px;
+}
+
+.methods {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 220px;
+    margin-right: 224px;
+    margin-top: 24px;
+
+}
+
+.methods_Title {
+    height: 35px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+    color: #181539;
+    Width: 242px;
+}
+
+.methoddetails {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 175px;
+    margin-right: 175px;
+    margin-top: 18px;
+}
+
+.method_description {
+    height: 50px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    color: #777C83;
+    Width: 318px;
+}
+
+.socialform {
+    display: flex;
+    justify-content: space-around;
+
+    Width: 100%;
+    Height: 176px;
+}
+
+.socialImg {
+    Width: 87.2px;
+    Height: 28.8px;
+
+
+}
+
+.socialmediaplatform {
+    display: flex;
+    justify-content: space-between;
+    Width: 677.06px;
+    Height: 31.56px;
+
+}
+
+.socialformtext {
+    height: 30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.6px;
+    color: #3964FF;
+}
+
+.BlackboxContainer{
+    background: #181818;
+    width:100%;
+    Height:362px;
+  
+}
+
+.blueLogo{
+    Width:20px;
+Height:17px;
+
+padding-right:8px;
+}
+
+#logobluepattern{
+    width: 30px;
+height: 32px;
+margin-top: 72px;
+}
+.Logobluepattern{
+    display:flex;
+    justify-content: center;
+}
+.patternContainerFeature{
+    display:flex;
+    justify-content: center;
+    margin-top: 64px;
+}
+.platformSocialMedia{
+    display:flex;
+    justify-content: center;
+}
+.Media{
+    Width:20px;
+Height:20px;
+}
+.mediabox{
+    Width:42px;
+Height:42px;
+background: #FFFFFF;
+border-radius:50%;
+display:flex;
+justify-content: center;
+align-items: center;
+margin-top:56px;
+margin-right: 14px;
+}
