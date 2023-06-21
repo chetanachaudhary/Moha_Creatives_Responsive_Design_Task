@@ -593,3 +593,14 @@ align-items: center;
 margin-top:56px;
 margin-right: 14px;
 }
+
+.FeatureContainers {
+    display: flex;
+    justify-content: space-between;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+
+}
