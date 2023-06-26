@@ -604,3 +604,1287 @@ margin-right: 14px;
     font-family: 'Roboto', sans-serif;
 
 }
+
+/*Responsive Design*/
+@media (max-width: 1337px) {
+    html {
+        font-size: 75%;
+    }
+
+    .sectionPart {
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+
+    .BenefitDescription {
+        margin-left: 24px;
+    }
+
+    .boxtransparent {
+        position: absolute;
+        top: 22rem;
+    }
+
+    .methoddetails {
+        margin-left: 160px;
+        margin-right: 150px;
+    }
+
+}
+
+@media (max-width: 1172px) {
+    html {
+        font-size: 65%;
+    }
+
+    .sectionPart {
+        padding-left: 6rem;
+        padding-right: 5rem;
+    }
+
+    .BenefitDescription {
+        margin-left: 24px;
+    }
+
+    .boxtransparent {
+        position: absolute;
+        top: 22rem;
+    }
+
+    .Intro_text {
+        font-size: 40px;
+        width: 450px;
+
+    }
+
+    #Fox_image {
+        width: 460px;
+        height: 400px;
+        position: absolute;
+        z-index: 10;
+    }
+
+    .studentBenefit {
+        margin-left: 140px;
+    }
+
+    .studentBenefits {
+        margin-left: 140px;
+    }
+
+    .methods {
+        margin-left: 150px;
+        margin-right: 120px;
+    }
+
+    .methoddetails {
+        margin-left: 70px;
+        margin-right: 40px;
+    }
+
+}
+
+@media (max-width: 1024px) {
+    html {
+        font-size: 55%;
+    }
+
+    .sectionPart {
+        padding-left: 6rem;
+        padding-right: 5rem;
+    }
+
+    .BenefitDescription {
+        margin-left: 18px;
+    }
+
+    .boxtransparent {
+        width: 420px;
+        height: 380px;
+        position: absolute;
+        top: 26rem;
+    }
+
+    .Intro_text {
+        font-size: 38px;
+        line-height: 60px;
+        width: 450px;
+
+    }
+
+    #Fox_image {
+        width: 420px;
+        height: 380px;
+
+    }
+
+    .studentBenefit {
+        margin-left: 100px;
+    }
+
+    .studentBenefits {
+        margin-left: 100px;
+    }
+
+    .methods {
+        margin-left: 130px;
+        margin-right: 120px;
+    }
+
+    .methoddetails {
+        margin-left: 90px;
+        margin-right: 80px;
+    }
+
+    .NumberOrder {
+        margin-left: 200px;
+        margin-right: 200px;
+        margin-top: 80px;
+    }
+
+    .method_description {
+        height: 50px;
+        Width: 280px;
+    }
+
+    .socialformtext {
+        height: 45px;
+        line-height: 27px;
+        letter-spacing: 0.6px;
+
+    }
+
+    .socialform {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+}
+
+@media (max-width: 960px) {
+    html {
+        font-size: 55%;
+    }
+
+    .sectionPart {
+        padding-left: 3.5rem;
+        padding-right: 3rem;
+    }
+
+    .BenefitDescription {
+        margin-left: 18px;
+    }
+
+    .boxtransparent {
+        width: 420px;
+        height: 380px;
+        position: absolute;
+        top: 26rem;
+    }
+
+    .Intro_text {
+        font-size: 38px;
+        line-height: 60px;
+        width: 450px;
+
+    }
+
+    #Fox_image {
+        width: 420px;
+        height: 380px;
+
+    }
+
+    .studentBenefit {
+        margin-left: 30px;
+    }
+
+    .studentBenefits {
+        margin-left: 30px;
+    }
+
+    .methoddetails {
+        display: none;
+    }
+
+    .methods {
+        margin-left: 100px;
+        margin-right: 50px;
+    }
+
+    .NumberOrder {
+        margin-left: 200px;
+        margin-right: 200px;
+        margin-top: 80px;
+    }
+
+    .socialformtext {
+        height: 45px;
+        line-height: 27px;
+        letter-spacing: 0.6px;
+
+    }
+
+    .socialform {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+}
+
+@media (max-width: 960px) {
+    html {
+        font-size: 55%;
+    }
+
+    .sectionPart {
+        padding-left: 3.5rem;
+        padding-right: 3rem;
+    }
+
+    .BenefitDescription {
+        margin-left: 18px;
+    }
+
+    .boxtransparent {
+        width: 380px;
+        height: 350px;
+        position: absolute;
+        top: 26rem;
+    }
+
+    .Intro_text {
+        font-size: 35px;
+        line-height: 60px;
+        width: 450px;
+
+    }
+
+    #Fox_image {
+        width: 380px;
+        height: 350px;
+
+    }
+
+    .studentBenefit {
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+    .studentBenefits {
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .methoddetails {
+        display: none;
+    }
+
+    .methods {
+        margin-left: 100px;
+        margin-right: 50px;
+    }
+
+    .NumberOrder {
+        margin-left: 200px;
+        margin-right: 200px;
+        margin-top: 80px;
+    }
+
+    .socialformtext {
+        height: 45px;
+        line-height: 27px;
+        letter-spacing: 0.6px;
+
+    }
+
+    .socialform {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    .benefitDetails {
+        Width: 390px;
+        Height: 283px;
+        background: #FFFFFF;
+        border: 1px solid #E7E7E7;
+        box-sizing: border-box;
+        padding-left: 1px;
+
+    }
+
+    .BenefitDescription {
+        height: 80px;
+        font-size: 16px;
+        line-height: 26px;
+        Width: 300px;
+        margin-left: 5rem;
+    }
+}
+
+@media (max-width:821px) {
+    html {
+        font-size: 45%;
+    }
+
+    .sectionPart {
+        padding-left: 3.5rem;
+        padding-right: 1rem;
+
+    }
+
+    .BenefitDescription {
+        margin-left: 18px;
+    }
+
+    .boxtransparent {
+        width: 320px;
+        height: 300px;
+        position: absolute;
+        top: 30rem;
+    }
+
+    .Intro_text {
+        font-size: 33px;
+        line-height: 50px;
+        width: 450px;
+
+    }
+
+    #Fox_image {
+        width: 320px;
+        height: 300px;
+
+    }
+
+    .studentBenefit {
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+    .studentBenefits {
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .methoddetails {
+        display: none;
+    }
+
+    .methods {
+        margin-left: 100px;
+        margin-right: 50px;
+    }
+
+    .NumberOrder {
+        margin-left: 160px;
+        margin-right: 160px;
+        margin-top: 80px;
+    }
+
+    .socialformtext {
+        height: 45px;
+        line-height: 27px;
+        letter-spacing: 0.6px;
+
+    }
+
+    .socialform {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    .benefitDetails {
+        Width: 390px;
+        Height: 283px;
+        background: #FFFFFF;
+        border: 1px solid #E7E7E7;
+        box-sizing: border-box;
+        padding-left: 1px;
+
+    }
+
+    .BenefitDescription {
+        height: 80px;
+        font-size: 16px;
+        line-height: 26px;
+        Width: 300px;
+        margin-left: 5rem;
+    }
+
+    .FeatureContainer {
+        display: none;
+    }
+
+    nav {
+        width: 100%;
+        height: 80px;
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+    #logo {
+        width: 60px;
+        height: 20px;
+        padding-left: 25px;
+        padding-right: 12px;
+        /* padding-top:8px; */
+    }
+
+    /* .Login{
+        margin-right: 1.5rem;
+    } */
+}
+
+@media (max-width:720px){
+    /* html {
+        font-size: 45%;
+    } */
+
+    .sectionPart {
+        display: inline;
+
+    }
+
+    .text_Loanism {
+        font-size: 15px;
+    }
+
+
+    .poem_text {
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 20px;
+        padding-top: 2rem;
+        margin-left: 3rem;
+
+    }
+
+    .Bluebox-Container {
+        width:100%;
+        Height: 885px;
+        padding-right: 2.5rem;
+        margin-bottom: 35px;
+    }
+
+    .Intro_text {
+        margin-left: 3rem;
+        font-weight: 600;
+        font-size: 30px;
+        Width: 280px;
+        Height: 240px;
+        line-height: 48px;
+    }
+
+    .workButton {
+
+        font-weight: 700;
+        font-size: 13px;
+        line-height: 20px;
+        margin-top: 40px;
+        margin-left: 3rem;
+
+
+    }
+
+    .learnMore {
+        margin-right: 3rem;
+
+    }
+
+    .Image-part {
+        display: flex;
+        justify-content: left;
+        margin-top: 49px;
+        margin-left: 20px;
+    }
+
+    .boxtransparent {
+        width: 400px;
+        height: 301px;
+        position: absolute;
+        top: 74rem;
+    }
+
+    .Login {
+        Width: 95px;
+        Height: 36px;
+        font-weight: 700;
+        font-size: 12px;
+
+    }
+
+    .DetailMore {
+        /* display: flex;
+        justify-content: center;
+        align-items: center; */
+        letter-spacing: 2.5px;
+        margin-left: 5rem;
+    }
+
+    .EmbraceText {
+        font-size: 24px;
+        line-height: 34px;
+        Width: 290px;
+        Height: 68px;
+        margin-left: 8rem;
+        margin-right: 8rem;
+        
+
+    }
+
+
+    #Fox_image {
+        width: 400px;
+        height: 301px;
+    }
+
+    .LoanDescription {
+        font-size: 14px;
+        line-height: 24px;
+        Width: 480px;
+        Height: 120px;
+        text-align: center;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .Advantages {
+        display: block;
+        margin-left: 0.5rem;
+        width:100%;
+        justify-content: center;
+        align-items: center;
+        margin-left:1px;
+        padding-left: 20rem;
+
+
+    }
+
+    /* .Advantagedetails {
+        Width: 280px;
+        Height: 180px;
+
+    } */
+
+    /* .modelImg {
+        Width: 35px;
+        Height: 33.33px;
+
+    } */
+
+    .Image_feature {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .AdvantageTitle {
+        font-size: 18px;
+        line-height: 27px;
+        text-align: center;
+        margin-top: 23px;
+    }
+
+    .AdvantageDescription {
+        font-size: 14px;
+        line-height: 22px;
+        text-align: center;
+        margin-bottom: 0.2px;
+    }
+
+    .DotDetails {
+        width: 100%;
+        margin-top: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+
+    .platformDescription {
+        Width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+
+    }
+
+    .SmartTitle {
+        font-size: 24px;
+        line-height: 34px;
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+
+    .studentBenefit {
+        display: block;
+        margin-top: 1px;
+
+
+    }
+
+    .studentBenefits {
+        display: block;
+    }
+
+    .benefitDetails {
+        Width: 100%;
+        Height: 231px;
+        border: none;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .Image_benefit {
+        margin-top: 20px;
+    }
+
+    .beneImg {
+        Width: 26.67px;
+        Height: 26.67px;
+
+    }
+
+    .benefitTitle {
+        font-size: 18px;
+        line-height: 27px;
+        margin-top: 24.67px;
+    }
+
+    .BenefitDescription {
+        font-size: 14px;
+        line-height: 22px;
+        text-align: center;
+        margin-left: 20px;
+        Width: 100%;
+        Height: 88px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .skyBlue_Container {
+        margin-top: 30px;
+        width:100%;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .Joindetails {
+        margin-top: 8px;
+        width:100%;
+    }
+
+    .Join {
+        font-size: 24px;
+        line-height: 34px;
+        Width: 100%;
+        Height: 34px;
+        margin-top: 40px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .NumberOrder {
+        display: block;
+        margin-top: 26px;
+        margin-left:2px;
+        /* position: relative; */
+        width:100%;
+        align-items: center;
+        justify-content: center;
+    }
+    .Number{
+        padding-left: 1rem;
+        padding-bottom: 9rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .NumberImg {
+        Width: 56px;
+        Height: 56px;
+        
+    }
+
+    .arrowImg {
+        display: none;
+    }
+
+    .Arrows {
+        width:75%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+        /* margin-top: 110px;
+        margin-bottom: 10px;
+        margin-left:2px;
+        margin-right:2px; */
+    }
+
+    .NumImg {
+        display: block;
+        Width: 40px;
+        Height: 37px;
+        margin-top: 48px;
+        margin-left:175px;
+    }
+
+    .methods {
+        display: block;
+        position: absolute;
+        top: 130px;
+        margin-left:1px;
+        margin-right:1px;
+        width:100%;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .methods_Title {
+        width:100%;
+        align-items: center;
+        justify-content: center;
+        Height: 26px;
+        font-size: 18px;
+        /* line-height: 35px; */
+        text-align: center;
+        margin-top: 0.5rem;
+        margin-bottom: 26rem;
+
+    }
+
+    .methoddetails {
+        display: block;
+        position: absolute;
+        top: 130px;
+    }
+
+    .method_description {
+        width:100%;
+        align-items: center;
+        justify-content: center;
+        Height: 42px;
+        font-size: 13px;
+        line-height: 21px;
+        text-align: center;
+        margin-top: 7rem;
+        margin-bottom: 23rem;
+
+    }
+
+    .slantpoint {
+        height: 730px;
+        width:100%;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .socialform {
+        display: block;
+        padding: 40px;
+
+    }
+
+    .socialformtext {
+        font-size: 13px;
+        line-height: 20px;
+        text-align: center;
+
+    }
+
+    .socialmediaplatform {
+        width: 100%;
+        height: 80px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+
+    .socialImg {
+        Width: 73.2px;
+        Height: 23.4px;
+    }
+
+    .socialmedia {
+        padding-right: 18px;
+        padding-left: 1px;
+    }
+
+    #logobluepattern {
+        width: 15.33px;
+        height: 22px;
+    }
+
+    #logobluepattern {
+        margin-top: 25px;
+    }
+
+    .FeatureContainers {
+        width: 100%;
+        height: 80px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+
+        padding-left: 25px;
+
+    }
+
+    .patternContainerFeature {
+        margin-top: 35px;
+        margin-bottom: 2px;
+        width:100%;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .BlackboxContainer {
+        margin-top: 5rem;
+        height: 260px;
+        width:100%;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .media {
+        width: 15px;
+        height: 12px;
+    }
+
+    .mediabox {
+        width: 38px;
+        height: 38px;
+        margin-top: 14px;
+    }
+    .platformSocialMedia{
+        margin-top:2px;
+    }
+
+}
+  
+
+@media screen and (max-width:490px) {
+    html{
+        width: 100%;
+    }
+
+    .sectionPart {
+        display: inline;
+
+    }
+
+    .text_Loanism {
+        font-size: 15px;
+    }
+
+
+    .poem_text {
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 20px;
+        padding-top: 2rem;
+        margin-left: 3rem;
+
+    }
+
+    .Bluebox-Container {
+        Height: 885px;
+        width:100%;
+        padding-right: 2.5rem;
+        margin-bottom: 35px;
+    }
+
+    .Intro_text {
+        margin-left: 3rem;
+        font-weight: 600;
+        font-size: 30px;
+        Width: 280px;
+        Height: 240px;
+        line-height: 48px;
+    }
+
+    .workButton {
+
+        font-weight: 700;
+        font-size: 13px;
+        line-height: 20px;
+        margin-top: 40px;
+        margin-left: 3rem;
+
+
+    }
+
+    .learnMore {
+        margin-right: 3rem;
+
+    }
+
+    .Image-part {
+        display: flex;
+        justify-content: left;
+        margin-top: 49px;
+        margin-left: 20px;
+    }
+
+    .boxtransparent {
+        width: 280px;
+        height: 301px;
+        position: absolute;
+        top: 74rem;
+    }
+
+    .Login {
+        Width: 95px;
+        Height: 36px;
+        font-weight: 700;
+        font-size: 12px;
+
+    }
+
+    .DetailMore {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        letter-spacing: 2.5px;
+        
+       
+        
+    }
+
+    .EmbraceText {
+        font-size: 24px;
+        line-height: 34px;
+        Width: 290px;
+        Height: 68px;
+        margin-left: 18px;
+        margin-right: 12px;
+
+    }
+
+
+    #Fox_image {
+        width: 280px;
+        height: 301px;
+    }
+
+    .LoanDescription {
+        font-size: 14px;
+        line-height: 24px;
+        Width: 280px;
+        Height: 120px;
+        text-align: center;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .Advantages {
+        display: block;
+        margin-left: 0.5rem;
+        width:100%;
+        justify-content: center;
+        align-items: center;
+        margin-left:1px;
+        padding-left: 2rem;
+
+    }
+
+    .Advantagedetails {
+        Width: 280px;
+        Height: 180px;
+
+    }
+
+    .modelImg {
+        Width: 35px;
+        Height: 33.33px;
+
+    }
+
+    .Image_feature {
+        margin-top: 33.67px;
+        margin-left: 130px;
+        margin-right: 120px;
+    }
+
+    .AdvantageTitle {
+        font-size: 18px;
+        line-height: 27px;
+        text-align: center;
+        margin-top: 23px;
+    }
+
+    .AdvantageDescription {
+        font-size: 14px;
+        line-height: 22px;
+        text-align: center;
+        margin-bottom: 0.2px;
+    }
+
+    .DotDetails {
+        margin-top: 10px;
+        width:100%;
+    }
+
+    .platformDescription {
+        Width: 290px;
+        Height: 68px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .SmartTitle {
+        font-size: 24px;
+        line-height: 34px;
+        padding-left: 4rem;
+        padding-right: 3.5rem;
+        margin-left:20px;
+    }
+
+    .studentBenefit {
+        display: block;
+        margin-top: 1px;
+        width:100%;
+        margin-left: 1px;
+        padding-left:5rem;
+       
+
+    }
+
+    .studentBenefits {
+        display: block;
+        width:100%;
+        margin-left: 1px;
+        padding-left:5rem;
+    }
+
+    .benefitDetails {
+        Width: 280px;
+        Height: 231px;
+        border: none;
+
+    }
+
+    .Image_benefit {
+        margin-top: 20px;
+    }
+
+    .beneImg {
+        Width: 26.67px;
+        Height: 26.67px;
+
+    }
+
+    .benefitTitle {
+        font-size: 18px;
+        line-height: 27px;
+        margin-top: 24.67px;
+    }
+
+    .BenefitDescription {
+        font-size: 14px;
+        line-height: 22px;
+        text-align: center;
+        margin-left: 20px;
+        Width: 240px;
+        Height: 88px;
+    }
+
+    .skyBlue_Container {
+        margin-top: 30px;
+        width:100%;
+    }
+
+    .Joindetails {
+        margin-top: 8px;
+    }
+
+    .Join {
+        font-size: 24px;
+        line-height: 34px;
+        Width: 286px;
+        Height: 34px;
+        margin-top: 40px;
+    }
+
+    .NumberOrder {
+        display: block;
+        margin-top: 30px;
+        margin-left:2px;
+        /* position: relative; */
+        width:100%;
+        align-items: center;
+        justify-content: center;
+    }
+    .Number{
+        padding-left: 1rem;
+        padding-bottom:7rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .NumberImg {
+        Width: 56px;
+        Height: 56px;
+        
+    }
+
+    .arrowImg {
+        display: none;
+    }
+
+    .Arrows {
+        width:52%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+    }
+    .NumImg {
+        display: block;
+        Width: 40px;
+        Height: 37px;
+    }
+
+    .methods {
+        display: block;
+        /* position: absolute;
+        top: 130px; */
+        width:100%;
+    }
+
+    .methods_Title {
+        Width: 100%;
+        Height: 26px;
+        font-size: 18px;
+        /* line-height: 35px; */
+        text-align: center;
+        margin-top: 0.5rem;
+        margin-bottom: 26rem;
+
+    }
+
+    .methoddetails {
+        display: block;
+        position: absolute;
+        top: 130px;
+    }
+
+    .method_description {
+        Width:100%;
+        Height: 42px;
+        font-size: 13px;
+        line-height: 21px;
+        text-align: center;
+        margin-top: 7rem;
+        margin-bottom: 23rem;
+
+    }
+
+    .slantpoint {
+        height: 730px;
+        width:100%;
+
+    }
+
+    .socialform {
+        display: block;
+        padding: 40px;
+        width:100%;
+
+    }
+
+    .socialformtext {
+        font-size: 13px;
+        line-height: 20px;
+        text-align: center;
+
+    }
+
+    .socialmediaplatform {
+        width: 280px;
+        height: 80px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+
+    .socialImg {
+        Width: 73.2px;
+        Height: 23.4px;
+    }
+
+    .socialmedia {
+        padding-right: 18px;
+        padding-left: 1px;
+    }
+
+    #logobluepattern {
+        width: 15.33px;
+        height: 22px;
+    }
+
+    #logobluepattern {
+        margin-top: 25px;
+    }
+
+    .FeatureContainers {
+        width: 300px;
+        height: 80px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+
+        padding-left: 25px;
+
+    }
+
+    .patternContainerFeature {
+        margin-top: 35px;
+        margin-bottom: 2px;
+    }
+
+    .BlackboxContainer {
+        margin-top: 5rem;
+        height: 260px;
+        width:100%;
+    }
+
+    .media {
+        width: 15px;
+        height: 12px;
+    }
+
+    .mediabox {
+        width: 38px;
+        height: 38px;
+        margin-top: 14px;
+    }
+    .platformSocialMedia{
+        margin-top:2px;
+    }
+
+}
